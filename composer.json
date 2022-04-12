@@ -1,0 +1,15 @@
+{
+  "name": "Zcsimon/helkt",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "zcxu",
+      "email": "zcxu@fixmail.com"
+    }
+  ],
+  "require": {
+
+  }
+}
